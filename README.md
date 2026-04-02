@@ -40,9 +40,6 @@ Both bots were designed, built, and are maintained solely by **Barney** — Pres
 - Access credentials, hosting, and codebases are not part of the society's assets.
 - **Neither bot is included in the society handover. Full stop.**
 
-> *"I built them, I own them. You're welcome to use them — but they stay mine."*
-> — **Barney**, Founding President & Developer
-
 ---
 
 <p align="center">
