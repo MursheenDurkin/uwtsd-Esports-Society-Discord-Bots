@@ -1,6 +1,6 @@
 <p align="center">
   <h1 align="center">UWTSD Esports Society</h1>
-  <p align="center">Official documentation for Spot and Atlas — the society's custom Discord bots</p>
+  <p align="center">Official documentation for Dewi and Owain — the society's custom Discord bots</p>
 </p>
 
 <p align="center">
@@ -13,11 +13,11 @@
 
 ## The Bots
 
-### Spot — Server Management
-Named after the Boston Dynamics Spot robot dog living in the Robotics Lab at UWTSD Swansea. Handles verification, moderation, announcements, free game alerts, and in-character interactions.
+### Dewi — Server Management
+Named after the Boston Dynamics Dewi robot dog living in the Robotics Lab at UWTSD Swansea. Handles verification, moderation, announcements, free game alerts, and in-character interactions.
 
-### Atlas — Esports Operations
-Named after the Boston Dynamics Atlas humanoid robot. Handles rank tracking, player registration, team management, tournaments, events, VOD review, and statistics.
+### Owain — Esports Operations
+Named after the Boston Dynamics Owain humanoid robot. Handles rank tracking, player registration, team management, tournaments, events, VOD review, and statistics.
 
 ## Full Documentation
 
@@ -25,8 +25,8 @@ Named after the Boston Dynamics Atlas humanoid robot. Handles rank tracking, pla
 
 | Section | Pages |
 |---------|-------|
-| **Spot** | [Overview](https://github.com/MursheenDurkin/uwtsd-Esports-Society-Discord-Bots/wiki/Spot) · [Verification](https://github.com/MursheenDurkin/uwtsd-Esports-Society-Discord-Bots/wiki/Spot-Verification) · [Moderation](https://github.com/MursheenDurkin/uwtsd-Esports-Society-Discord-Bots/wiki/Spot-Moderation) · [Free Games](https://github.com/MursheenDurkin/uwtsd-Esports-Society-Discord-Bots/wiki/Spot-Free-Games) · [Personality](https://github.com/MursheenDurkin/uwtsd-Esports-Society-Discord-Bots/wiki/Spot-Personality) |
-| **Atlas** | [Overview](https://github.com/MursheenDurkin/uwtsd-Esports-Society-Discord-Bots/wiki/Atlas) · [Getting Started](https://github.com/MursheenDurkin/uwtsd-Esports-Society-Discord-Bots/wiki/Getting-Started) · [Rank Tracking](https://github.com/MursheenDurkin/uwtsd-Esports-Society-Discord-Bots/wiki/Rank-Tracking) · [Teams](https://github.com/MursheenDurkin/uwtsd-Esports-Society-Discord-Bots/wiki/Teams-&-Rosters) · [Tournaments](https://github.com/MursheenDurkin/uwtsd-Esports-Society-Discord-Bots/wiki/Tournaments) · [Events](https://github.com/MursheenDurkin/uwtsd-Esports-Society-Discord-Bots/wiki/Events-&-Practice) · [VOD Review](https://github.com/MursheenDurkin/uwtsd-Esports-Society-Discord-Bots/wiki/VOD-Review) · [Dashboard](https://github.com/MursheenDurkin/uwtsd-Esports-Society-Discord-Bots/wiki/Stats-Dashboard) |
+| **Dewi** | [Overview](https://github.com/MursheenDurkin/uwtsd-Esports-Society-Discord-Bots/wiki/Dewi) · [Verification](https://github.com/MursheenDurkin/uwtsd-Esports-Society-Discord-Bots/wiki/Dewi-Verification) · [Moderation](https://github.com/MursheenDurkin/uwtsd-Esports-Society-Discord-Bots/wiki/Dewi-Moderation) · [Free Games](https://github.com/MursheenDurkin/uwtsd-Esports-Society-Discord-Bots/wiki/Dewi-Free-Games) · [Personality](https://github.com/MursheenDurkin/uwtsd-Esports-Society-Discord-Bots/wiki/Dewi-Personality) |
+| **Owain** | [Overview](https://github.com/MursheenDurkin/uwtsd-Esports-Society-Discord-Bots/wiki/Owain) · [Getting Started](https://github.com/MursheenDurkin/uwtsd-Esports-Society-Discord-Bots/wiki/Getting-Started) · [Rank Tracking](https://github.com/MursheenDurkin/uwtsd-Esports-Society-Discord-Bots/wiki/Rank-Tracking) · [Teams](https://github.com/MursheenDurkin/uwtsd-Esports-Society-Discord-Bots/wiki/Teams-&-Rosters) · [Tournaments](https://github.com/MursheenDurkin/uwtsd-Esports-Society-Discord-Bots/wiki/Tournaments) · [Events](https://github.com/MursheenDurkin/uwtsd-Esports-Society-Discord-Bots/wiki/Events-&-Practice) · [VOD Review](https://github.com/MursheenDurkin/uwtsd-Esports-Society-Discord-Bots/wiki/VOD-Review) · [Dashboard](https://github.com/MursheenDurkin/uwtsd-Esports-Society-Discord-Bots/wiki/Stats-Dashboard) |
 | **Guides** | [Captain's Guide](https://github.com/MursheenDurkin/uwtsd-Esports-Society-Discord-Bots/wiki/Captains-Guide) · [Committee Guide](https://github.com/MursheenDurkin/uwtsd-Esports-Society-Discord-Bots/wiki/Committee-Guide) |
 
 ---
